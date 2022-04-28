@@ -1,2 +1,2 @@
 # desafio-github-primeiro-repositorio
-Projeto sobre github
+Projeto sobre  GitHub
